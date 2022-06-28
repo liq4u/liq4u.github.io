@@ -1,13 +1,13 @@
 ---
 title: Upcoming
 subtitle: Upcoming
-image: assets/img/portfolio/02-full.jpg
+image: assets/img/portfolio/expppplore.jpg
 alt: Keep Exploring
 
 caption:
   title: Upcoming
   subtitle: Upcoming
-  thumbnail: assets/img/portfolio/02-thumbnail.jpg
+  thumbnail: assets/img/portfolio/expppplore.jpg
 ---
 
 Upcoming
