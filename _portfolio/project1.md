@@ -1,13 +1,13 @@
 ---
 title: DataDigger
 subtitle: A market-tested quantitative model, the project is designed to be low risk and continuous growth。
-image: assets/img/portfolio/01-full.jpg
+image: assets/img/portfolio/ethereum-logo-6278329_960_720.png
 alt: Shirts on a hanger
 
 caption:
   title: DataDigger
   subtitle: DataDigger
-  thumbnail: assets/img/portfolio/01-thumbnail.jpg
+  thumbnail: assets/img/portfolio/ethereum-logo-6278329_960_720.png
 ---
 A market-tested quantitative model, the project is designed to be low risk and continuous growth.
 
