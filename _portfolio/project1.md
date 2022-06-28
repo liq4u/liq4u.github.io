@@ -1,18 +1,20 @@
 ---
-title: Project Threads
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
+title: DataDigger
+subtitle: A market-tested quantitative model, the project is designed to be low risk and continuous growth。
 image: assets/img/portfolio/01-full.jpg
 alt: Shirts on a hanger
 
 caption:
-  title: Threads
-  subtitle: Illustration
+  title: DataDigger
+  subtitle: DataDigger
   thumbnail: assets/img/portfolio/01-thumbnail.jpg
 ---
-Use this area to describe your project. **Markdown** supported. This entry (project1.md) uses links for the image sources. All other projects in the portfolio use local images. Both work just fine! Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+A market-tested quantitative model, the project is designed to be low risk and continuous growth.
+
+[https://www.traderwagon.com/zh-CN/portfolio/711](https://www.traderwagon.com/zh-CN/portfolio/711)
 
 {:.list-inline}
-- Date: January 2017
-- Client: Threads
-- Category: Illustration
+- Date: June 2022
+- Client: DataDigger
+- Category: DataDigger
 
