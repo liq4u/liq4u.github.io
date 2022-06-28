@@ -100,7 +100,7 @@ en: &DEFAULT_EN
     people:
       - name: "liq4u"
         role: "Quant Researcher & Trader"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/_KBTBr_K_400x400.jpg
         social:
           - url: https://twitter.com/liq4ultra
             icon: fab fa-twitter
