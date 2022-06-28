@@ -11,7 +11,7 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Studio!
+    title: Welcome to 9527.fi!
     text: It's Nice To Meet You
     button: Tell Me More
     buttonlink: "#services"
@@ -98,11 +98,11 @@ en: &DEFAULT_EN
     subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: team
     people:
-      - name: "Kay Garland"
-        role: "Lead Designer"
+      - name: "liq4u"
+        role: "Quant Researcher & Trader"
         image: assets/img/team/500x500.jpg
         social:
-          - url: https://twitter.com
+          - url: https://twitter.com/liq4ultra
             icon: fab fa-twitter
           - url: https://facebook.com
             icon: fab fa-facebook-f
